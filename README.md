@@ -1,6 +1,6 @@
 # [Ícaro Harry](https://icaro.io)
 
-:man_technologist: front-end specialist teaching React at [@betrybe](https://www.betrybe.com/)
+:man_technologist: front-end engineer and teacher
 
 :bicyclist: <strike>wannabe</strike> cyclist
 
