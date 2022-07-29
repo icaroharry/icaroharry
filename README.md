@@ -2,10 +2,6 @@
 
 :man_technologist: front-end engineer and teacher
 
-:bicyclist: <strike>wannabe</strike> cyclist
-
-:raising_hand: a simple person
-
 ---
 
 ### Say hi 👋
