@@ -1,6 +1,6 @@
 # [Ícaro Harry](https://icaro.io)
 
-:man_technologist: front-end engineer and teacher
+:man_technologist: ajudando devs front-end a evoluírem na programação com o [Codante.io](https://codante.io)
 
 ---
 
