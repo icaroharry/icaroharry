@@ -2,8 +2,12 @@
 
 🧑🏽‍💻 Front-End and Full-Stack Developer / Teacher
 
+
+
 👉 Over 10 years of experience crafting exceptional web experiences.
+
 👉 Co-founder of [Codante.io](https://codante.io) – an open-source platform empowering Portuguese-speaking developers to master front-end development.
+
 👉 Proficient in JavaScript, Typescript, React, Redux, React Testing Library, Next.js, Node.js.
 
 ---
